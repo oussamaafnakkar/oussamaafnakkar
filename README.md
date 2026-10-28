@@ -8,7 +8,7 @@ backend developer · security writer
 ```
 
 [![Blog](https://img.shields.io/badge/Blog-sbytec.com-1f6feb?style=for-the-badge)](https://www.sbytec.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oussama-afnakkar/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oussama-afnakkar-9a764b231/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oussamaafnakkar2002@gmail.com)
 
 </div>
@@ -89,7 +89,7 @@ blog/  vulnerabilities/  access-denied/  rabbit-hole/
 ## 📫 Contact
 
 - Email: [oussamaafnakkar2002@gmail.com](mailto:oussamaafnakkar2002@gmail.com)
-- LinkedIn: [oussama-afnakkar](https://www.linkedin.com/in/oussama-afnakkar/)
+- LinkedIn: [oussama-afnakkar](https://www.linkedin.com/in/oussama-afnakkar-9a764b231//)
 - Blog: [sbytec.com](https://www.sbytec.com/)
 
 ```
